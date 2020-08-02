@@ -1,0 +1,13 @@
+/home/tiago/dev/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/home/tiago/dev/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/home/tiago/dev/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/home/tiago/dev/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/home/tiago/dev/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/home/tiago/dev/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/home/tiago/dev/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
